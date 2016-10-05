@@ -1,12 +1,38 @@
-.search
+.nav
 {
-	color: #c1cdcd;
+	background: #eeeeee;
+	border: 1px solid #dddddd;
+}
+.gregs_list
+{
+	font-size: 20px;
+	font-family: arial;
+}
+.horizontal {
+	display: inline-block;
+	position: absolute;
 }
 .post
-{
-	float: right;
+{	
+	top: 200px;
+	right: 200px;
 }
 .account
-{
-	float: right;
+{	
+	top: 200px;
+	right: 200px;
 }
+ul
+{
+	list-style-type: none;
+}
+.link_post
+{
+	color: purple;
+}
+
+ .link_account
+ {
+ 	color:purple;
+ }
+ 
