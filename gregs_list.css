@@ -14,13 +14,23 @@
 }
 .post
 {	
-	top: 200px;
-	right: 200px;
+	top: 30px;
+	right: 30px;
 }
 .account
 {	
-	top: 200px;
-	right: 200px;
+	top: 50px;
+	right: 30px;
+}
+
+.magnifying_glass
+{
+	border: 1px solid #bbbbbb;
+
+}
+.search_box
+{
+	border: 1px solid #bbbbbb;
 }
 ul
 {
