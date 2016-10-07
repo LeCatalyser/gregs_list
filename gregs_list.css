@@ -9,29 +9,54 @@
 	font-family: arial;
 }
 .horizontal {
-	display: inline-block;
+	display: inline;
 	position: absolute;
 }
 .post
 {	
 	top: 30px;
-	right: 30px;
+	right: 10px;
 }
 .account
 {	
-	top: 50px;
-	right: 30px;
+	top: 30px;
+	right: 60px;
 }
 
 .magnifying_glass
 {
 	border: 1px solid #bbbbbb;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: 17px;
+	display: inline-block;
 
+
+}
+.search
+{
+	position: relative;
+	left: 50px;
+	margin-bottom: 10px;
+
+}
+.text_box
+{
+	width: 251px;
+	height: 41px;
+	display: inline-block;
 }
 .search_box
 {
 	border: 1px solid #bbbbbb;
+	border-radius: 5px;
+	display: inline-block;
+	position: relative;
+	left: 50px;
 }
+
+
 ul
 {
 	list-style-type: none;
